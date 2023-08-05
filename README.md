@@ -3,6 +3,9 @@
 
 Landing page for a beauty e-commerce site.
 
+## CheckOut here ⬇️
+
+https://sonalrajsr.github.io/Web_d_Learning-design-6/
 
 ## Discription
 
